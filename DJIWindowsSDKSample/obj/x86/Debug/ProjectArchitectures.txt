@@ -1,0 +1,2 @@
+C:\Users\arthu\Desktop\KerryL_DJI_SDK\DJIVideoParser\DJIVideoParser.vcxproj;x86
+C:\Users\arthu\Desktop\KerryL_DJI_SDK\DJIWindowsSDKSample\DJIWindowsSDKSample.csproj;x86

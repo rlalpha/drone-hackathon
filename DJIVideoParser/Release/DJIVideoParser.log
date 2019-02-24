@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  h264_Decoder.cpp
+  modulemediator.cpp
+  Parser.cpp
+  Queue.cpp
+  Utils.cpp
+  videoparser.cpp
+  videoparsermgr.cpp
+  VideoWrapper.cpp
+c:\users\arthu\desktop\kerryl_dji_sdk\djivideoparser\utils.cpp(201): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\arthu\desktop\kerryl_dji_sdk\djivideoparser\utils.cpp(272): warning C4244: 'return': conversion from 'time_t' to 'int32_t', possible loss of data
+c:\users\arthu\desktop\kerryl_dji_sdk\djivideoparser\utils.cpp(278): warning C4244: 'return': conversion from 'time_t' to 'long', possible loss of data
+c:\users\arthu\desktop\kerryl_dji_sdk\djivideoparser\utils.cpp(638): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library C:\Users\arthu\Desktop\KerryL_DJI_SDK\Release\DJIVideoParser\DJIVideoParser.lib and object C:\Users\arthu\Desktop\KerryL_DJI_SDK\Release\DJIVideoParser\DJIVideoParser.exp
+  Generating code
+  All 1510 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DJIVideoParser.vcxproj -> C:\Users\arthu\Desktop\KerryL_DJI_SDK\Release\DJIVideoParser\DJIVideoParser.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\AppxPackage\Microsoft.AppXPackage.Targets(1145,5): warning APPX1503: The project contains 1 item(s) that represent the app manifest: ..\djiuwpsample\package.appxmanifest. App manifests that are not used to produce an app package will be ignored.

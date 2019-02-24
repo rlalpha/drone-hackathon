@@ -1,0 +1,15 @@
+C:\Users\arthu\Desktop\KerryL_DJI_SDK\DJIWindowsSDKSample\obj\x86\Release\DJIWindowsSDKSample.csprojAssemblyReference.cache
+C:\Users\arthu\Desktop\KerryL_DJI_SDK\DJIWindowsSDKSample\obj\x86\Release\App.g.i.cs
+C:\Users\arthu\Desktop\KerryL_DJI_SDK\DJIWindowsSDKSample\obj\x86\Release\App.g.cs
+C:\Users\arthu\Desktop\KerryL_DJI_SDK\DJIWindowsSDKSample\obj\x86\Release\Controls\NotifyPopup.g.i.cs
+C:\Users\arthu\Desktop\KerryL_DJI_SDK\DJIWindowsSDKSample\obj\x86\Release\Controls\NotifyPopup.g.cs
+C:\Users\arthu\Desktop\KerryL_DJI_SDK\DJIWindowsSDKSample\obj\x86\Release\MainPage.g.i.cs
+C:\Users\arthu\Desktop\KerryL_DJI_SDK\DJIWindowsSDKSample\obj\x86\Release\MainPage.g.cs
+C:\Users\arthu\Desktop\KerryL_DJI_SDK\DJIWindowsSDKSample\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Users\arthu\Desktop\KerryL_DJI_SDK\DJIWindowsSDKSample\obj\x86\Release\App.xaml
+C:\Users\arthu\Desktop\KerryL_DJI_SDK\DJIWindowsSDKSample\obj\x86\Release\Controls\NotifyPopup.xaml
+C:\Users\arthu\Desktop\KerryL_DJI_SDK\DJIWindowsSDKSample\obj\x86\Release\MainPage.xaml
+C:\Users\arthu\Desktop\KerryL_DJI_SDK\DJIWindowsSDKSample\obj\x86\Release\App.xbf
+C:\Users\arthu\Desktop\KerryL_DJI_SDK\DJIWindowsSDKSample\obj\x86\Release\Controls\NotifyPopup.xbf
+C:\Users\arthu\Desktop\KerryL_DJI_SDK\DJIWindowsSDKSample\obj\x86\Release\MainPage.xbf
+C:\Users\arthu\Desktop\KerryL_DJI_SDK\DJIWindowsSDKSample\obj\x86\Release\XamlSaveStateFile.xml
